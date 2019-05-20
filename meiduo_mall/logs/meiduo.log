@@ -1,0 +1,49 @@
+WARNING 2019-05-15 13:54:53,675 base 152 Not Found: /register.html
+WARNING 2019-05-15 13:54:53,686 basehttp 124 "GET /register.html HTTP/1.1" 404 2149
+INFO 2019-05-15 13:56:09,394 basehttp 124 "GET /register/ HTTP/1.1" 200 3356
+WARNING 2019-05-15 13:56:09,692 base 152 Not Found: /register/css/reset.css
+WARNING 2019-05-15 13:56:09,717 base 152 Not Found: /register/css/main.css
+WARNING 2019-05-15 13:56:09,789 basehttp 124 "GET /register/css/main.css HTTP/1.1" 404 2173
+WARNING 2019-05-15 13:56:09,797 base 152 Not Found: /register/js/host.js
+WARNING 2019-05-15 13:56:09,797 basehttp 124 "GET /register/js/host.js HTTP/1.1" 404 2167
+WARNING 2019-05-15 13:56:09,786 basehttp 124 "GET /register/css/reset.css HTTP/1.1" 404 2176
+WARNING 2019-05-15 13:56:09,851 base 152 Not Found: /register/js/vue-2.5.16.js
+WARNING 2019-05-15 13:56:09,929 basehttp 124 "GET /register/js/vue-2.5.16.js HTTP/1.1" 404 2185
+WARNING 2019-05-15 13:56:09,928 base 152 Not Found: /register/images/logo.png
+WARNING 2019-05-15 13:56:09,941 basehttp 124 "GET /register/images/logo.png HTTP/1.1" 404 2182
+WARNING 2019-05-15 13:56:09,901 base 152 Not Found: /register/js/axios-0.18.0.min.js
+WARNING 2019-05-15 13:56:09,951 basehttp 124 "GET /register/js/axios-0.18.0.min.js HTTP/1.1" 404 2203
+WARNING 2019-05-15 13:56:09,992 base 152 Not Found: /register/js/common.js
+WARNING 2019-05-15 13:56:09,993 basehttp 124 "GET /register/js/common.js HTTP/1.1" 404 2173
+WARNING 2019-05-15 13:56:10,078 base 152 Not Found: /register/js/register.js
+WARNING 2019-05-15 13:56:10,080 basehttp 124 "GET /register/js/register.js HTTP/1.1" 404 2179
+WARNING 2019-05-15 13:56:10,095 base 152 Not Found: /register/images/pic_code.jpg
+WARNING 2019-05-15 13:56:10,114 basehttp 124 "GET /register/images/pic_code.jpg HTTP/1.1" 404 2194
+WARNING 2019-05-15 13:56:10,135 base 152 Not Found: /register/images/logo.png
+WARNING 2019-05-15 13:56:10,141 basehttp 124 "GET /register/images/logo.png HTTP/1.1" 404 2182
+INFO 2019-05-15 14:06:05,387 basehttp 124 "GET /register/ HTTP/1.1" 200 4410
+INFO 2019-05-15 14:06:06,325 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2019-05-15 14:06:06,403 basehttp 124 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2019-05-15 14:06:06,528 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 304 0
+WARNING 2019-05-15 14:06:06,530 base 152 Not Found: /register/js/host.js
+WARNING 2019-05-15 14:06:06,532 basehttp 124 "GET /register/js/host.js HTTP/1.1" 404 2167
+WARNING 2019-05-15 14:06:06,531 base 152 Not Found: /register/js/axios-0.18.0.min.js
+WARNING 2019-05-15 14:06:06,553 basehttp 124 "GET /register/js/axios-0.18.0.min.js HTTP/1.1" 404 2203
+WARNING 2019-05-15 14:06:06,579 base 152 Not Found: /register/js/common.js
+WARNING 2019-05-15 14:06:06,581 base 152 Not Found: /register/js/vue-2.5.16.js
+WARNING 2019-05-15 14:06:06,602 basehttp 124 "GET /register/js/vue-2.5.16.js HTTP/1.1" 404 2185
+WARNING 2019-05-15 14:06:06,620 basehttp 124 "GET /register/js/common.js HTTP/1.1" 404 2173
+WARNING 2019-05-15 14:06:06,625 base 152 Not Found: /register/js/register.js
+INFO 2019-05-15 14:06:06,640 basehttp 124 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+WARNING 2019-05-15 14:06:06,653 basehttp 124 "GET /register/js/register.js HTTP/1.1" 404 2179
+INFO 2019-05-16 10:50:43,440 basehttp 124 "GET /register/ HTTP/1.1" 200 4410
+WARNING 2019-05-16 10:50:43,565 base 152 Not Found: /register/js/register.js
+WARNING 2019-05-16 10:50:43,583 basehttp 124 "GET /register/js/register.js HTTP/1.1" 404 2179
+WARNING 2019-05-16 10:50:43,569 base 152 Not Found: /register/js/axios-0.18.0.min.js
+WARNING 2019-05-16 10:50:43,584 basehttp 124 "GET /register/js/axios-0.18.0.min.js HTTP/1.1" 404 2203
+WARNING 2019-05-16 10:50:43,569 base 152 Not Found: /register/js/host.js
+WARNING 2019-05-16 10:50:43,585 basehttp 124 "GET /register/js/host.js HTTP/1.1" 404 2167
+WARNING 2019-05-16 10:50:43,582 base 152 Not Found: /register/js/common.js
+WARNING 2019-05-16 10:50:43,595 basehttp 124 "GET /register/js/common.js HTTP/1.1" 404 2173
+WARNING 2019-05-16 10:50:43,597 base 152 Not Found: /register/js/vue-2.5.16.js
+WARNING 2019-05-16 10:50:43,602 basehttp 124 "GET /register/js/vue-2.5.16.js HTTP/1.1" 404 2185
